@@ -16,3 +16,12 @@ Author: [StuartRc](https://stuartrc.artstation.com/), [Source](https://forum.aff
 
 ## TexturePaintBrush-01-A
 ![TexturePaintBrush-01-A](TexturePaintBrush-01-A.jpg)
+
+## TexturePainter-01-S
+![TexturePainter-01-S](TexturePainter-01-S.jpg)
+
+## TexturePainter-08-S
+![TexturePainter-08-S](TexturePainter-08-S.jpg)
+
+## TexturePainter-Effects-09-E
+![TexturePainter-Effects-09-E](TexturePainter-Effects-09-E.jpg)
